@@ -34,5 +34,5 @@ Smallest testable revision: Define “approved source” as material explicitly 
 SF-01 has no testable trigger: "approved sources are insufficient" and "helpful IT Support next step" are undefined, and Section 3 says "approved IT Support material" without saying what that is or where it comes from. That means no one can tell when the system should answer versus abstain, and the E-01 "dates do not match" evidence is not tied to any requirement about currency.
 Safe failure is the core promise of the MVP, and if the abstain condition and the next step cannot be checked, then a pass or fail on grounding (GR-01) and on Week 4 local-versus-hosted comparisons will come down to opinion instead of a repeatable test.
 RECOMMENDATION: Add a pass/fail sentence to SF-01, such as "Given a question with no matching passage in the approved-source list, the response states the sources do not support an answer and names one specific IT Support contact or page," and list the approved sources by name in Section 3 (ASSUMPTION: you have that list from Week 2, and I have not seen it, so please do not let me invent one).
-- My decision: Accepted / Revised / Rejected
-- My reason: <EXPLAIN USING WEEK 2 EVIDENCE, SCOPE, OR TESTABILITY>
+- My decision: Accepted
+- My reason: Claude makes a good point about defining triggers and desired behaviors in certain situations. Knowing what and where information should be coming from is vital.
