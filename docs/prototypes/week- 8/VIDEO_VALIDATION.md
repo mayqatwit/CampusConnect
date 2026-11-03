@@ -9,7 +9,7 @@ IT topics, privacy boundary, and human fallback.
 ## Shared video
 AI-generated presenter - not a live staff member.
 This is a prerecorded introduction. It does not answer questions.
-[Watch the CampusConnect presenter]([PASTE_HEYGEN_SHARE_LINK_HERE](https://app.heygen.com/videos/campusconnect-ai-presenter-introduction-9a9fc2af7bc041faa925f431591e7de4))
+[Watch the CampusConnect presenter](https://app.heygen.com/videos/campusconnect-ai-presenter-introduction-9a9fc2af7bc041faa925f431591e7de4)
 ## Transcript
 Hello. I am an AI-generated CampusConnect presenter, not a live staff member. You can use CampusConnect for approved campus IT help. Ask about password resets, secure campus Wi-Fi, or the IT Service Desk. Please do not share passwords, recovery codes, student records, or other private information. If the chatbot cannot support an answer from its approved guide, it will direct you to a human. This video is a prerecorded introduction. You can read the same script in our GitHub project.
 ## Five checks
