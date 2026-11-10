@@ -14,3 +14,7 @@ Branch: feature/week-9-multimodal-integration
 - Requirement: one optional multimodal CampusConnect journey
 - Files changed: campusconnect-web/ (all files in here)
 - Known limitation: Voice has trouble with some browsers (firefox)
+## Pull Request Information
+Link: https://github.com/mayqatwit/CampusConnect/pull/5
+Reviewer name: Andrew Giacalone
+Review decision: Mostly good, just needs work with the voice integration with Firefox.
