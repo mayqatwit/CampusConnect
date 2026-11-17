@@ -38,6 +38,6 @@ Decision reason: No issues were present in the Lighthouse report, page performan
 GitHub Actions run: <PASTE RUN URL>
 Release tag if GO: v0.9.0-rc1
 ## 5. Engineering and AI Use Log
-What I tested myself: <FILL IN>
-What remained human-reviewed rather than automated: <FILL IN>
-Known limitation carried into Week 11 Red Teaming: <FILL IN>
+What I tested myself: Accessibility features with keyboard
+What remained human-reviewed rather than automated: Visuals on the page itself
+Known limitation carried into Week 11 Red Teaming: Voice action still unsupported
